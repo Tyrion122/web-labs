@@ -7,3 +7,5 @@ lab4 https://tyrion122.github.io/web-labs/lab4/
 lab5 https://tyrion122.github.io/web-labs/lab5/
 
 lab6 https://tyrion122.github.io/web-labs/lab6/
+
+lab7 https://tyrion122.github.io/web-labs/lab7/
